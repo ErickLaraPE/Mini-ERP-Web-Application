@@ -1,15 +1,16 @@
-# 🚀 [School-Dashboard]
+# 🚀 [ERP-Agro]
 
-Aplicación que muestra datos estadisticos en un dashboard sobre una escuela.
+Aplicación que maneja 3 modulos importantes en un negocio pequeño de vivero agricola (Produccion,Inventario y Logistica).
+Para obtener el codigo fuente, contactarme para darle el acceso temporal.
 
-## 🏗️ Arquitectura del Sistema: Arquitectura por Capas
+## 🏗️ Arquitectura del Sistema: Arquitectura Hexagonal
 
-Para este ecosistema se ha seleccionado una arquitectura de software por Capas debido a que no es de mucha complejidad en su logica de negocio.
+Para este ecosistema se ha seleccionado una arquitectura de software Ports & Adapters o tambien conocida como Hexagonal.
 
 ### 💡 Patrones de diseño
 
-Se utilizo en el backend de esta aplicacion el patron Singleton junto con el MVC.
+Se utilizo en el backend de esta aplicacion el patron Singleton y el patron adapter para los DTOS y otros mappers.
 
 #### ⚡ Tecnologias empleadas (Stack)
 
-Se empleó para esta aplicación el stack tecnologico MERN (MySQL, Express, React y NodeJS)
+Se empleó para esta aplicación el stack tecnologico PSA (PostgreSQL,Spring y Angular).
