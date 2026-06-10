@@ -1,7 +1,7 @@
 # 🚀 [ERP-Agro]
 
 Aplicación que maneja 3 modulos importantes en un negocio pequeño de vivero agricola (Produccion,Inventario y Logistica).
-Para obtener el codigo fuente, contactarme para darle el acceso temporal.
+Para ver la arquitectura y la organizacion a nivel general, contactarme para darle el acceso temporal.
 
 ## 🏗️ Arquitectura del Sistema: Arquitectura Hexagonal
 
